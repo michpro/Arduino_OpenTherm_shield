@@ -1,0 +1,11 @@
+.gitattributes eol=lf
+.gitignore  eol=lf
+*.vrml      eol=lf
+*.wrl       eol=lf
+*.kicad_*   eol=lf
+*.stpZ      binary
+*.7z        binary
+*.zip       binary
+*.pdf       binary
+*.png       binary
+*.jpg       binary
