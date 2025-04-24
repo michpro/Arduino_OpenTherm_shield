@@ -1662,7 +1662,7 @@
 				)
 			)
 		)
-		(property "Value" "TPS61040DBV"
+		(property "Value" "MT3540-F23"
 			(at 0 2.4 0)
 			(layer "F.Fab")
 			(uuid "439f2c00-b701-45d0-9187-7e8bcffc2866")
@@ -1697,7 +1697,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C7722"
+		(property "LCSC" "C181783"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")

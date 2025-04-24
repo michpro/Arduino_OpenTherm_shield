@@ -3814,7 +3814,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Replacements:\n•(LCSC C181783) MT3540-F23\n•(LCSC C370888) RY3750"
+	(text "Replacement:\n•(LCSC C370888) RY3750"
 		(exclude_from_sim no)
 		(at 77.216 187.96 0)
 		(effects
@@ -10241,7 +10241,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TPS61040DBV"
+		(property "Value" "MT3540-F23"
 			(at 89.662 183.134 0)
 			(effects
 				(font
@@ -10278,7 +10278,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7722"
+		(property "LCSC" "C181783"
 			(at 82.55 176.53 0)
 			(effects
 				(font
