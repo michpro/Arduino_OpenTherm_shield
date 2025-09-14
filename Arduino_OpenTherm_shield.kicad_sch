@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "OpenTherm Arduino Shield")
-		(date "2025-07-11")
+		(date "2025-09-14")
 		(rev "1.2")
 		(company "© 2025 MPro")
 		(comment 1 "Designed by MPro")
@@ -8393,7 +8393,7 @@
 				)
 			)
 		)
-		(property "Value" "1k8"
+		(property "Value" "5k1"
 			(at 210.82 131.826 90)
 			(effects
 				(font
@@ -8428,7 +8428,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C4177"
+		(property "LCSC" "C23186"
 			(at 210.82 129.54 90)
 			(effects
 				(font
